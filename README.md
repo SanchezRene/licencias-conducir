@@ -1,5 +1,5 @@
 ## Licencias de Conducir
-Proyecto para el ramo de ingeniería de software, de la universidad del BíoBío.
+Proyecto para el ramo de ingeniería de software, de la Universidad del BíoBío.
 
 
 A continuación, se presentan las asignaciones de requisitos funcionales a cada integrante:
