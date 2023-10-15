@@ -1,10 +1,17 @@
 "use strict";
 const mongoose = require("mongoose");
 
-
 const formularioSchema = new mongoose.Schema(
-    
-    //  desarrollar formulario
+  {
+    nombre: {
+      type: String,
+      required: true,    
+    },
+    edad: {
+      type: Number,
+      required: true,  
+    },
+  },
 );
 
 const Formulario = mongoose.model("Formulario", formularioSchema);
